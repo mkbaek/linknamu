@@ -13,12 +13,12 @@ export type Profile = {
 };
 
 export const profile: Profile = {
-  name: "백민규",
-  bio: "주식 고수",
-  avatar: "/avatar.svg",
+  name: "김개발",
+  bio: "풀스택 개발자! 요즘에는 AI 개발에 관심이 많아요",
+  avatar: "/profile.jpg",
   links: [
-    { title: "GitHub", url: "https://github.com" },
-    { title: "LinkedIn", url: "https://www.linkedin.com" },
-    { title: "Blog", url: "https://example.com" },
+    { title: "🐶 깃허브", url: "https://github.com/mkbaek" },
+    { title: "📓 블로그", url: "https://blog.naver.com/alsrb5055" },
+    { title: "📮 이메일", url: "mailto:alsrb5055@naver.com" },
   ],
 };
